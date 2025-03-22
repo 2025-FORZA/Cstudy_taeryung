@@ -1,5 +1,5 @@
-// 1_Lab01_1
-//¹éÁØ 2557¹ø Hello World
+ï»¿// 1_Lab01_1
+//ë°±ì¤€ 2557ë²ˆ Hello World
 
 #include <stdio.h>
 
